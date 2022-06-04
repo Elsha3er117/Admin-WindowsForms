@@ -1,0 +1,11 @@
+C:\Users\3bdel\OneDrive\Desktop\Data base\Admin Form\Admin Form\bin\Debug\Admin Form.exe.config
+C:\Users\3bdel\OneDrive\Desktop\Data base\Admin Form\Admin Form\bin\Debug\Admin Form.exe
+C:\Users\3bdel\OneDrive\Desktop\Data base\Admin Form\Admin Form\bin\Debug\Admin Form.pdb
+C:\Users\3bdel\OneDrive\Desktop\Data base\Admin Form\Admin Form\obj\Debug\Admin Form.csproj.AssemblyReference.cache
+C:\Users\3bdel\OneDrive\Desktop\Data base\Admin Form\Admin Form\obj\Debug\Admin Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\3bdel\OneDrive\Desktop\Data base\Admin Form\Admin Form\obj\Debug\Admin_Form.Form1.resources
+C:\Users\3bdel\OneDrive\Desktop\Data base\Admin Form\Admin Form\obj\Debug\Admin_Form.Properties.Resources.resources
+C:\Users\3bdel\OneDrive\Desktop\Data base\Admin Form\Admin Form\obj\Debug\Admin Form.csproj.GenerateResource.cache
+C:\Users\3bdel\OneDrive\Desktop\Data base\Admin Form\Admin Form\obj\Debug\Admin Form.csproj.CoreCompileInputs.cache
+C:\Users\3bdel\OneDrive\Desktop\Data base\Admin Form\Admin Form\obj\Debug\Admin Form.exe
+C:\Users\3bdel\OneDrive\Desktop\Data base\Admin Form\Admin Form\obj\Debug\Admin Form.pdb

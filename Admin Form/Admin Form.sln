@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin Form", "Admin Form\Admin Form.csproj", "{09A0E9A7-BD1B-4302-9CDC-7361430DC718}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A0E9A7-BD1B-4302-9CDC-7361430DC718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A0E9A7-BD1B-4302-9CDC-7361430DC718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A0E9A7-BD1B-4302-9CDC-7361430DC718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A0E9A7-BD1B-4302-9CDC-7361430DC718}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1F1C5B9-912C-4FF2-A5F5-34D6F5BE517C}
+	EndGlobalSection
+EndGlobal
